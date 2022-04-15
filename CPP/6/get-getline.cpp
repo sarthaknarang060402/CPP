@@ -6,7 +6,7 @@
 //      cout<<"enter name\n";
 //      cin.get(a,50);
 //      cout<<a<<endl;
-//      cout<<"enter name again\n";          // takes enter key from before as input
+//      cout<<"enter name again\n";          // takes \n key from before as input
 //      cin.get(a,50);
 //      cout<<a<<endl;
 //      return 0;
